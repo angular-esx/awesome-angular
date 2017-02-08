@@ -21,6 +21,7 @@ Table of contents:
 * [Grid - Table](#grid---table)
 * [LocalStorage - SessionStorage - Cookies](#localstorage---sessionstorage---cookies)
 * [Progress](#progress)
+* [Redux with Angular 2](#redux-with-angular-2)
 * [Select](#select)
 * [Social Share](#social-share)
 
@@ -85,6 +86,9 @@ Table of contents:
 #### Progress
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) It is a simple circle progress component created for Angualar2
 * [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Simple progress bar control for your angular2 applications using bootstrap3
+
+#### Redux with Angular 2
+* [angular-redux/store](https://github.com/angular-redux/store) Angular 2+ bindings for Redux
 
 #### Select
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
