@@ -89,6 +89,7 @@ Table of contents:
 
 #### Redux with Angular 2
 * [angular-redux/store](https://github.com/angular-redux/store) Angular 2+ bindings for Redux
+* [ngrx/store](https://github.com/ngrx/store) RxJS powered state management for Angular applications, inspired by Redux
 
 #### Select
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
