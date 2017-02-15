@@ -72,6 +72,7 @@ Table of contents:
 
 #### Date Time PickerSocial Login
 * [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) Highly configurable date picker built for Angular 2 applications
+* [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) Angular2 Datepicker Component
 
 #### File Upload
 * [fileDroppa](https://github.com/ptkach/fileDroppa) Angular2 File Dropzone
