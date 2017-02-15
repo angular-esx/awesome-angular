@@ -77,6 +77,7 @@ Table of contents:
 #### File Upload
 * [fileDroppa](https://github.com/ptkach/fileDroppa) Angular2 File Dropzone
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use Angular2 components for files upload
+* [ngx-uploader](https://github.com/jkuri/ngx-uploader) Angular File Uploader
 
 #### Google Maps
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular 2+ Google Maps Components
