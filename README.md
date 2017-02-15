@@ -12,6 +12,7 @@ Table of contents:
   * [Others](#others)
 * [Mobile frameworks](#mobile-frameworks)
 * [Server-Side Rendering](#server-side-rendering)
+* [Authorization Authentication](#authorization-authentication)
 * [Card](#card)
 * [Charts](#charts)
 * [Drag and Drop](#drag-and-drop)
@@ -49,6 +50,9 @@ Table of contents:
 
 #### Server-Side Rendering
 * [Angular Universal](https://github.com/angular/universal) Universal (isomorphic) javascript support for Angular2
+
+#### Authorization Authentication
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) Helper library for handling JWTs in Angular 2 apps
 
 #### Card
 * [ng2-card](https://github.com/c-bata/ng2-card) Card view component for angular2
