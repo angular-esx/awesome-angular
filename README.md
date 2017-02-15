@@ -24,6 +24,7 @@ Table of contents:
 * [Progress](#progress)
 * [Redux with Angular 2](#redux-with-angular-2)
 * [Select](#select)
+* [Social Login](#social-login)
 * [Social Share](#social-share)
 
 #### Seed - Starter
@@ -65,7 +66,7 @@ Table of contents:
 #### Drag and Drop
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Simple drag and drop with dragula
 
-#### Date Time Picker
+#### Date Time PickerSocial Login
 * [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) Highly configurable date picker built for Angular 2 applications
 
 #### File Upload
@@ -97,6 +98,9 @@ Table of contents:
 
 #### Select
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+
+#### Social Login
+* [angular2-social-login](https://www.npmjs.com/package/angular2-social-login) Simple client side social authentication for Angular2 application
 
 #### Social Share
 
