@@ -13,6 +13,7 @@ Table of contents:
 * [Mobile frameworks](#mobile-frameworks)
 * [Server-Side Rendering](#server-side-rendering)
 * [Authorization Authentication](#authorization-authentication)
+* [Database Online](#database-online)
 * [Card](#card)
 * [Charts](#charts)
 * [Drag and Drop](#drag-and-drop)
@@ -54,6 +55,9 @@ Table of contents:
 
 #### Authorization Authentication
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) Helper library for handling JWTs in Angular 2 apps
+
+#### Database Online
+* [angularfire2](https://github.com/angular/angularfire2) The official Angular 2 library for Firebase
 
 #### Card
 * [ng2-card](https://github.com/c-bata/ng2-card) Card view component for angular2
