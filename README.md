@@ -30,6 +30,7 @@ Table of contents:
 * [Social Share](#social-share)
 * [Text Mask](#text-mask)
 * [Translation](#translation)
+* [Tree](#tree)
 
 #### Seed - Starter
 
@@ -124,3 +125,5 @@ Table of contents:
 #### Translation
 * [ng2-translate](https://github.com/ngx-translate/core) The internationalization (i18n) library for Angular 2+
 
+#### Tree
+* [ng2-tree](https://github.com/valor-software/ng2-tree) Angular tree component
