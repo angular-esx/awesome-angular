@@ -27,6 +27,7 @@ Table of contents:
 * [Select](#select)
 * [Social Login](#social-login)
 * [Social Share](#social-share)
+* [Translation](#translation)
 
 #### Seed - Starter
 
@@ -110,3 +111,5 @@ Table of contents:
 
 #### Social Share
 
+#### Translation
+* [ng2-translate](https://github.com/ngx-translate/core) The internationalization (i18n) library for Angular 2+
