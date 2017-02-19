@@ -27,6 +27,7 @@ Table of contents:
 * [Select](#select)
 * [Social Login](#social-login)
 * [Social Share](#social-share)
+* [Text Mask](#text-mask)
 * [Translation](#translation)
 
 #### Seed - Starter
@@ -111,5 +112,9 @@ Table of contents:
 
 #### Social Share
 
+#### Text Mask
+* [text-mask](https://github.com/text-mask/text-mask) Input mask for React, Angular, Ember, Vue, & plain JavaScript
+
 #### Translation
 * [ng2-translate](https://github.com/ngx-translate/core) The internationalization (i18n) library for Angular 2+
+
