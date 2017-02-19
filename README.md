@@ -95,6 +95,7 @@ Table of contents:
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 and beyond
 
 #### LocalStorage - SessionStorage - Cookies
+* [angular2-cookie](https://github.com/salemdar/angular2-cookie) Implementation of Angular 1.x $cookies service to Angular 2
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A local and session storage wrapper for angular 2
 
