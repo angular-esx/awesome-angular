@@ -113,7 +113,7 @@ Table of contents:
 #### Social Share
 
 #### Text Mask
-* [text-mask](https://github.com/text-mask/text-mask) Input mask for React, Angular, Ember, Vue, & plain JavaScript
+* [angular2-text-mask](https://github.com/text-mask/text-mask/tree/master/angular2) Input mask for Angular 2
 
 #### Translation
 * [ng2-translate](https://github.com/ngx-translate/core) The internationalization (i18n) library for Angular 2+
