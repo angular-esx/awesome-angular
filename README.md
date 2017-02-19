@@ -26,6 +26,7 @@ Table of contents:
 * [Progress](#progress)
 * [Redux with Angular 2](#redux-with-angular-2)
 * [Select](#select)
+* [Slider](#slider)
 * [Social Login](#social-login)
 * [Social Share](#social-share)
 * [Text Mask](#text-mask)
@@ -118,6 +119,9 @@ Table of contents:
 * [angular2-social-login](https://www.npmjs.com/package/angular2-social-login) Simple client side social authentication for Angular2 application
 
 #### Social Share
+
+#### Slider
+* [ng2-nouislider](https://github.com/tb/ng2-nouislider) Angular2 noUiSlider directive
 
 #### Text Mask
 * [angular2-text-mask](https://github.com/text-mask/text-mask/tree/master/angular2) Input mask for Angular 2
