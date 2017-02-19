@@ -22,6 +22,7 @@ Table of contents:
 * [Google Maps](#google-maps)
 * [Grid - Table](#grid---table)
 * [LocalStorage - SessionStorage - Cookies](#localstorage---sessionstorage---cookies)
+* [Pagination](#pagination)
 * [Progress](#progress)
 * [Redux with Angular 2](#redux-with-angular-2)
 * [Select](#select)
@@ -95,6 +96,9 @@ Table of contents:
 #### LocalStorage - SessionStorage - Cookies
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A local and session storage wrapper for angular 2
+
+#### Pagination
+* [ng2-pagination](https://github.com/michaelbromley/ng2-pagination) Pagination for Angular 2
 
 #### Progress
 * [angular2-circle-progress](https://github.com/Feridum/angular2-circle-progress) It is a simple circle progress component created for Angualar2
