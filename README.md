@@ -72,6 +72,7 @@ Table of contents:
 
 #### Drag and Drop
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Simple drag and drop with dragula
+* [ng2-dnd](https://github.com/akserg/ng2-dnd) Angular 2 Drag-and-Drop without dependencies
 
 #### Date Time PickerSocial Login
 * [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) Highly configurable date picker built for Angular 2 applications
